@@ -14,5 +14,5 @@ The solution is built with a focus on **early warning systems**, leveraging low-
 
 ## Project Documentation
 
-📄 [Final Report – PDF](./Documentation/Final_Report_FloodDetection.pdf)  
+📄 [Final Report – PDF](./Documentation/Final_Report_Flood_Detection.pdf)  
 This contains a complete overview of the system architecture, sensor integration, circuit diagrams, and conclusions drawn from real-time testing and simulation.
